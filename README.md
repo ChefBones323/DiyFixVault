@@ -1,2 +1,2 @@
 # DiyFixVault
-DIYFixVault is your all-in-one platform for mastering home maintenance and repair. It’s a growing library of step-by-step guides, tool reviews, and expert DIY advice, designed to empower homeowners, makers, and repair enthusiasts to take control of their projects — from small fixes to big renovations.
+DIYFixVault is a smart home-repair platform that blends expert how-to guides, tool reviews, and AI-powered troubleshooting. Built with Next.js, Firebase, and OpenAI, it helps homeowners and DIYers learn repairs, find the right tools, and fix problems with confidence. Featuring community tips, video tutorials, and affiliate links for easy access to recommended gear.
